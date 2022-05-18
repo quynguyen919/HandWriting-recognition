@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "handwriting-recognition-17c49": {
+      "hosting": {
+        "HW": [
+          "handwriting-recognition-17c49"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "handwriting-recognition-17c49"
+  }
+}
